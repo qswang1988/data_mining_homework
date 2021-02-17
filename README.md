@@ -3,4 +3,4 @@
 
 homework 3 of data mining course
 
-a decision tree in it
+a decision tree in HW3_Instructions.ipynb
